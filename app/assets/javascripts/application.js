@@ -17,3 +17,4 @@
 
 //require manifests
 //= require application_manifest
+//= require admin_manifest 
