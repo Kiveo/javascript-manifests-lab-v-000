@@ -1,5 +1,4 @@
 //admin specific manifest document and sprocket directives
 
 //= require hello_world
-//= require doesn_nothing 
-
+//= require doesn_nothing
