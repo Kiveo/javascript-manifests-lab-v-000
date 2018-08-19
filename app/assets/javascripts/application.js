@@ -15,6 +15,3 @@
 //= require turbolinks
 //= require wrong_place_wrong_time
 
-//require manifests
-//= require application_manifest
-//= require admin_manifest 
