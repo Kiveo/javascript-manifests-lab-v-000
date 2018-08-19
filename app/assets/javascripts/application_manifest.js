@@ -1,4 +1,4 @@
 //Manifest for standard users (not admin)
 
-//= require main.js
+//= require main
 //= require alert_maker
